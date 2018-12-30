@@ -9,19 +9,3 @@ https://moaaz-bhnas.github.io/hajar-birthday/
 
 ## The Whole List
 - [Soha Friendversary](https://github.com/moaaz-bhnas/soha-friendversary#friendversary)
-
-## Install
-<b>Requirements:</b>  
-You will need [Git](https://git-scm.com/) to clone this project.  
-
-<b>Steps:</b>
-```
-# Clone this repository
-$ git clone https://github.com/moaaz-bhnas/hajar-birthday.git
-
-# Go into the repository
-$ cd hajar-birthday
-
-# Run
-// Open index.html file on your preferred browser
-```
